@@ -1,0 +1,15 @@
+{
+  "name": "slack-slide-bot",
+  "version": "1.0.0",
+  "description": "Shirley - A Slack Slides Companion",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Uri Shaked",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/client": "^2.2.1",
+    "nodemon": "^1.9.1"
+  }
+}
